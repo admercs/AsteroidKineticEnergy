@@ -62,7 +62,7 @@ def mass_from_volume_density(volume: float, density: float) -> float:
 
 
 def kinetic_energy(mass: float, velocity: float) -> float:
-    return mass * velocity**2
+    return 0.5 * mass * velocity**2
 
 
 def main():
