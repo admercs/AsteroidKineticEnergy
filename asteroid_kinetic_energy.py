@@ -42,11 +42,11 @@ def km3_to_cm3(km3: float) -> float:
 
 
 def kg_to_g(kg: float) -> float:
-    return kg * 1000
+    return kg * 1e3
 
 
 def km_to_cm(km: float) -> float:
-    return km * 100000
+    return km * 1e5
 
 
 def ton_to_erg(ton: float) -> float:
