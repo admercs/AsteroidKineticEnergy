@@ -1,6 +1,8 @@
 # AsteroidKineticEnergy
 
-Simple calculations of asteroid impact kinetic energy. Performs calculations for 1-km asteroids of different types as well as Ceres.
+Simple calculations of asteroid impact kinetic energy.
+
+Performs calculations for 1-km asteroids of different types as well as Ceres, in comparison to a 10-megaton nuclear bomb.
 
 ## Usage
 
