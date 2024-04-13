@@ -27,7 +27,7 @@ asteroid_density: AsteroidDensityMean = {  # g/cm3
 }
 
 
-velocity_escape_cm_s: float = 1.8e6  # cm/s
+velocity_escape_cm_s: float = 1.12e6  # cm/s
 mass_asteroid_ceres_g: float = 9.393e23  # g
 ke_bomb_10megaton_erg: float = 4.2e23  # erg
 
