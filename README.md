@@ -14,7 +14,9 @@ Beware the non-fixed-width floating point numbers provided in base Python! Numpy
 python main.py
 julia main.jl
 gfortran main.f08 -o main_f08.exe
+./main_f08.exe
 rustc main.rs -o main_rs.exe
+./main_rs.exe
 ```
 
 ## Output
