@@ -4,9 +4,7 @@ Simple calculations of asteroid impact kinetic energy.
 
 Performs calculations for 1-km asteroids of different types as well as Ceres, in comparison to a 10-megaton nuclear bomb.
 
-Python, Julia, Fortran, and Rust implementations are provided for comparison.
-
-Beware the non-fixed-width floating point numbers provided in base Python! Numpy to the rescue. Fortran and C++ provide IEEE fixed-width floating point numbers starting with Fortran2008 and C++23, respectively.
+Python, Julia, Fortran, and Rust implementations are provided for comparison. Fortran and C++ provide IEEE fixed-width floating point numbers starting with Fortran2008 and C++23, respectively.
 
 ## Usage
 
